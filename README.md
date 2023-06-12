@@ -1,8 +1,13 @@
-# Responsive_Restaurant_WebPage
+# THE SPICE OF ARMAN🍔
+
+![Application screenshot](./Images/Screenshot%20(2).png)
+
+
+[THE SPICE OF ARMAN] It is a simple, modern and responsive website for restaurants, made with Bootstrap5.
 
 ![Application screenshot](./Images/Screenshot.png)
 
-[THE SPICE OF ARMAN] It is a simple, modern and responsive website for restaurants, made with Bootstrap5.
+
 
 # During this project I learned
 
@@ -29,6 +34,26 @@ Link:
 - Isotope
 - Animate.css
 
+## Credits
+- This website was developed by [@armansaikia](https://github.com/armansaikia).
 
-## Authors
-- [@armansaikia](https://github.com/armansaikia)
+
+## 🤝 Contributing
+
+ Contributions and feature requests are welcome!
+
+  Start by:
+
+- Forking the project
+- Clone the project to your local machine by running `git clone https://github.com/armansaikia/Responsive_Restaurant_WebPage.git`
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development(or master if not available) branch of the original project for a review
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
