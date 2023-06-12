@@ -4,19 +4,20 @@
 
 [THE SPICE OF ARMAN] It is a simple, modern and responsive website for restaurants, made with Bootstrap5.
 
+# During this project I learned
+
+
+- Basic functions of javascript
+- Flex box and grid usage
+- Implementation of media query
+
 # Live Preview:
 
 Link: 
 
-# Install
+## Tech Stack🛠️
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-- Clone the repository:
-
-```bash
-git clone https://github.com/armansaikia/Responsive_Restaurant_WebPage.git
-```
-
-- Open **`index.html`** in your browser, and enjoy !
 
 # Used libraries
 
@@ -28,6 +29,6 @@ git clone https://github.com/armansaikia/Responsive_Restaurant_WebPage.git
 - Isotope
 - Animate.css
 
-## Todos
 
-- [ ] Implement back-end project for food ordering, delivery, and booking tables.
+## Authors
+- [@armansaikia](https://github.com/armansaikia)
