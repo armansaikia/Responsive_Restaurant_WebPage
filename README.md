@@ -10,33 +10,35 @@
 
 
 
-# 💻 During this project I have learned------
+# 💻 During this project I have learned --
 
-- How to structure the web page using HTML tags and elements.
+- HTML structure and elements.
 
-- Gained knowledge of CSS styling to enhance the appearance of the website.
+- CSS styling and customization.
 
-- Utilized Bootstrap5 to create a responsive and mobile-friendly layout for the restaurant website.
+- Responsive design principles.
 
-- Implemented a navigation bar using Bootstrap's navbar component to create a menu for easy website navigation.
+- Bootstrap framework for building responsive websites.
 
-- Integrated a carousel component to showcase testimonials or reviews.
+- Image handling and optimization.
 
-- Implemented javascript for :
+- Navigation implementation using Bootstrap navbar.
 
-  Scroll Animation: When the user scrolls down the page, the navigation bar changes its appearance. 
+- Typography and color schemes.
 
-  Navigation Bar Hide:When a navigation link is clicked, it removes the "show" class from the navbar collapse element, hiding the navigation menu.
+- Carousel integration for testimonials or reviews.
 
-  Counter Design- The counter design code animates numbers on elements from start to end values over a specified duration in one line.
+- JavaScript implementation such as Scroll Animation, Navigation Bar Hide , Counter Design.
 
 - Flex box and grid usage.
 
 - Implementation of media query.
 
+
 # 🔴Live Preview:
 
 Link: 
+
 
 ## 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -47,8 +49,6 @@ Link:
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- Bootstrap-icons
-- FontAwesome
 
 ## 🤝 Contributing
 
