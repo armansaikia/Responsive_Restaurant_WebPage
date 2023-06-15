@@ -1,12 +1,13 @@
 # THE SPICE OF ARMAN🍔
 
- ![Logo screenshot](./Images/logo.png)
+ ![LOGO](Images\logo.png)
+
 
 
 
  It is a simple, modern and responsive website for restaurants, made with Bootstrap5.
 
-![Application screenshot](./Images/Screenshot.png)
+![Application screenshot](Images\Screenshot.png)
 
 
 
