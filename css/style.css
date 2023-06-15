@@ -32,7 +32,7 @@ ol {
 }
 
 
-/*===== Variable Define =====*/
+/* Variable Define */
 :root {
   --primary-color: black;
   --secondry-color: orangered;
@@ -56,9 +56,9 @@ body {
 }
 
 /*
-=========================================
+
     Custom Scrollbar
-=========================================
+
 */ 
 
 ::-webkit-scrollbar {
@@ -72,10 +72,8 @@ body {
 } 
 
 /*
-==========================================
-   Custom CSS Design
-==========================================
-*/
+
+   Custom CSS Design */
 
 h1 {
   font-size: 3rem;
@@ -184,11 +182,8 @@ p {
   color: var(--white-color);
 }
 
-/*
-==========================================
-   Header Design
-==========================================
-*/
+/* Header Design*/
+
 .navigation-wrap{
   position:fixed;
   width:100%;
@@ -207,13 +202,14 @@ p {
   border:unset;
   box-shadow: none;
 }
-.nav-link{
-  font-size:0.9375rem;
+.nav-link {
+  font-size: 0.9375rem;
   font-weight: 600;
   text-transform: capitalize;
-  color:var(--primary-color);
+  color: var(--primary-color);
   letter-spacing: 1px;
 }
+
 .navigation-wrap .main-btn{
   padding:0.3125rem 1.4375rem;
   box-shadow: none;
@@ -235,9 +231,9 @@ p {
 
 
 /*
-==========================================
+
    top-banner Design
-==========================================
+
 */
 .top-banner{
   width:100%;
@@ -249,9 +245,8 @@ p {
  
 
 /*
-==========================================
   counter Design
-==========================================
+
 */
 .counter-section{
   background-color: var(--primary-color);
@@ -264,9 +259,9 @@ p {
  
 
 /*
-==========================================
+
  about section Design
-==========================================
+
 */
 .about-section{
   background: var(--white-color);
@@ -280,10 +275,8 @@ p {
 }
  
 /*
-==========================================
- food type section Design
-==========================================
-*/
+food type section Design*/
+
  .food-type{
    padding-top:3.25rem;
  }
@@ -319,9 +312,9 @@ p {
 }
 
 /*
-==========================================
+
  explore food section Design
-==========================================
+
 */
 .explore-food .card{
   border:none;
@@ -346,19 +339,19 @@ p {
 }
 
 /*
-==========================================
+
  testimonial section Design
-==========================================
+
 */
 .testimonial-section {
     background-color: var(--primary-color);
   }
   
   .testimonial-section .carousel-item {
-    margin-top: 5rem;
+    margin-top: 4rem;
     padding: 10rem 3.125rem;
     background-color: var(--white-color);
-    border-radius: 0.9375rem;
+    border-radius: 9.9375rem;
     text-align: center;
   }
   
@@ -396,9 +389,9 @@ p {
   
 
 /*
-==========================================
+
 FAQ section Design
-==========================================
+
 */
 .faq h4 span{
   color:var(--primary-color);
@@ -439,9 +432,8 @@ FAQ section Design
 }
 
 /*
-==========================================
 footer section Design
-==========================================
+
 */
 .footer{
   background: var(--primary-color);
@@ -462,11 +454,8 @@ footer section Design
 
   
 
-/*--===============
-Responsive Design===
-==============-->
 
-*/
+/*Responsive Design */
 @media (max-width:1024px) {
 
     /* about section */

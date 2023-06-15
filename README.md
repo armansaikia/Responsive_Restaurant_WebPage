@@ -16,8 +16,6 @@
 
 - CSS styling and customization.
 
-- Responsive design principles.
-
 - Bootstrap framework for building responsive websites.
 
 - Image handling and optimization.
@@ -66,9 +64,9 @@ Link:
 
 
 ## 🔻Credits
-- This website was developed by [@armansaikia](https://github.com/armansaikia).
+- This website was developed by [@armansaikia](https://github.com/armansaikia)
 
 
 ## 🔻Show your support
 
-Give a ⭐️ if you like this project!
+- Give a ⭐️ if you like this project!
