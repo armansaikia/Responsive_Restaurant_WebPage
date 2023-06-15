@@ -4,6 +4,8 @@
 
 It is a simple, modern and responsive website for restaurants, made with Bootstrap5.
 
+![Screenshot](./Images/Screenshot.png)
+
 
 # 💻 During this project I have learned --
 
