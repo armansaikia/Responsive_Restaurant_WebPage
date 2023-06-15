@@ -35,7 +35,7 @@
 
 # 🔴Live Preview:
 
-Link: 
+Link: https://lnkd.in/eTfFGCRs
 
 
 ## 🛠️ Tech Stack
