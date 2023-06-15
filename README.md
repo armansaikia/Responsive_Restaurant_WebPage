@@ -1,6 +1,6 @@
 # THE SPICE OF ARMAN🍔
 
- ![Logo screenshot](./Images/Screenshot%20(2).png)
+ ![Logo screenshot](./Images/logo.png)
 
 
 
